@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Lychee and I am currently Learning ML and ERA5 Reanalysis Data!  
  
-<img align="right" alt="img" src="https://github.com/Liilychee/Liilychee/blob/main/c3a690a3381ef83d4da9a340ae03024.jpg" width="30%" height="auto"/>
+<img align="right" alt="img" src="https://github.com/Liilychee/Liilychee/blob/main/a92b334ec8c8d853039f0f7ef1b8b3f.jpg" width="30%" height="auto"/>
 
  
 #### 🌱 Things I am currently working on 🌱 : 
