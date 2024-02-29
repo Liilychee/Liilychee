@@ -1,16 +1,35 @@
-### Hi there 👋
+# Lychee  GitHub Profile 
+### Hi there 👋 This is Lychee ！✨ 
+ 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Liilychee/Liilychee)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](yue.li.199911@gmail.com)
+🚀 *My website is coming soon*🚀
 
-<!--
-**Liilychee/Liilychee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github page! I am Lychee and I am currently Learning ML and ERA5 Reanalysis Data!  
+ 
+<img align="right" alt="img" src="https://github.com/Liilychee/Liilychee/blob/main/c3a690a3381ef83d4da9a340ae03024.jpg" width="30%" height="auto"/>
 
-Here are some ideas to get you started:
+ 
+#### 🌱 Things I am currently working on 🌱 : 
+- Taking online courses about Data Science and Machine Learning 
+- Focusing on research about Weather Prediction
+ 
+ 
+#### ⚡ Things recent ones I'm interested in ⚡ : 
+- Chat GPT
+- Stable Diffusion
+- Data Analysis
+#### 🌻 I am studying 🌻
+- IELTS
+- German
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :computer: Programming languages and tools :computer: : 
+<p>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Liilychee&show_icons=true&hide_border=true" />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<br />
+</p>
