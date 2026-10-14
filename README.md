@@ -30,9 +30,12 @@ Investigating physics-guided quantile models and cross-regional transfer learnin
 
 [View Repository](https://github.com/Liilychee/physics-guided-Quantile-Probabilistic-Precipitation)
 
-**Graph-Based Spatiotemporal Forecasting**
+**Graph-Based Precipitation Forecasting over Ireland**
 
-Investigating geographical and wind-directed graph representations for precipitation forecasting, with an emphasis on regional variability and model robustness.
+Research on geographical and wind-directed graph representations
+for spatiotemporal precipitation forecasting over Ireland.
+
+[View Collaborative Repository](https://github.com/ayushdad22/research_rainfaill)
 
 **Current Research**
 
