@@ -1,5 +1,5 @@
 
-# Hi there, I'm Lychee! 👋
+# Hi! 
 
 ### PhD Researcher in Computer Science | University College Dublin 🇮🇪
 
